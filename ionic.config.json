@@ -1,0 +1,8 @@
+{
+  "name": "myMacBookProApp",
+  "app_id": "4296e5ef",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
